@@ -1,4 +1,4 @@
-[![Statistics card](https://github-readme-stats.vercel.app/api?username=kuyugama&show=prs_merged&show_icons=true&theme=omni&locale=uk-ua&rank_icon=github&include_all_commits=true&custom_title=%D0%A1%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0%20%D0%9A%D1%83%D1%8E%20%D2%90%D0%B0%D0%BC%D0%B8)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+[![Statistics card](https://github-readme-stats.vercel.app/api?username=kuyugama&show=prs_merged&show_icons=true&theme=omni&locale=uk-ua&rank_icon=github&include_all_commits=true&custom_title=Статистика%20Куюґами)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 [![Ratelimit FastAPI card](https://github-readme-stats.vercel.app/api/pin/?username=kuyugama&repo=ratelimit-fastapi&theme=radical)](https://github.com/kuyugama/ratelimit-fastapi)
 [![Addon system card](https://github-readme-stats.vercel.app/api/pin/?username=kuyugama&repo=addon-system&theme=radical)](https://github.com/kuyugama/addon-system)
